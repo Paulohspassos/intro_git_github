@@ -1,0 +1,2 @@
+Meu nome é Paulo Henrique e estou empolgado para aprender tudo o que puder da programação web, para conseguir me colocar no mercado de trabalho como programador.
+O Git junto com o Github são ferramentas fundamentais para se manter o histórico e a organização dos meus códigos além de permitir a colaboração entre outros desenvolvedores.
